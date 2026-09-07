@@ -14,4 +14,4 @@ The application can reliably store and retrieve expense data locally.
 
 ## Status
 
-PLANNED
+COMPLETED

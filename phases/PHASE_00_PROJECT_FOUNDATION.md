@@ -14,4 +14,4 @@ A clean, buildable application foundation.
 
 ## Status
 
-PLANNED
+COMPLETED

@@ -11,8 +11,8 @@ Development is structured into 19 sequential phases. Each phase represents a coh
 
 | Phase | Specification File | Focus Area | Status |
 | :--- | :--- | :--- | :--- |
-| **Phase 0** | [PHASE_00_PROJECT_FOUNDATION.md](phases/PHASE_00_PROJECT_FOUNDATION.md) | Project Foundation & Architecture Shell | **PLANNED** |
-| **Phase 1** | [PHASE_01_LOCAL_DATABASE.md](phases/PHASE_01_LOCAL_DATABASE.md) | Room SQLite Database & Data Layer | **PLANNED** |
+| **Phase 0** | [PHASE_00_PROJECT_FOUNDATION.md](phases/PHASE_00_PROJECT_FOUNDATION.md) | Project Foundation & Architecture Shell | **COMPLETED** |
+| **Phase 1** | [PHASE_01_LOCAL_DATABASE.md](phases/PHASE_01_LOCAL_DATABASE.md) | Room SQLite Database & Data Layer | **COMPLETED** |
 | **Phase 2** | [PHASE_02_EXPENSE_MANAGEMENT.md](phases/PHASE_02_EXPENSE_MANAGEMENT.md) | Core Expense Management & CRUD | **PLANNED** |
 | **Phase 3** | [PHASE_03_DASHBOARD.md](phases/PHASE_03_DASHBOARD.md) | Spending Summaries & Dashboard | **PLANNED** |
 | **Phase 4** | [PHASE_04_CATEGORIES_AND_ORGANIZATION.md](phases/PHASE_04_CATEGORIES_AND_ORGANIZATION.md) | Categories, Search, Filters & Sorting | **PLANNED** |
